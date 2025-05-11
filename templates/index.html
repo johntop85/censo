@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Censo Estudiantil 2020</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" type="text/css"> 
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <nav>
+        <div class="nav-container">
+            <div class="logo">CensoEdu</div>
+            <div class="nav-links">
+                <a href="#inicio">Inicio</a>
+                <a href="#datos_encuesta">Datos Encuesta</a>
+                <a href="#contacto">Contacto</a>
+                <a href="#ubicacion">Ubicación</a>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="banner-section" id="inicio">
+        <div class="banner-content">
+            <h1>Censo Educativo 2020</h1>
+            <p>Análisis detallado del nivel educativo en Colombia en 2020</p>
+        </div>
+        <div class="banner-image">
+            <img src="static\img\pc1.jpeg" alt="Laptop con gráficos">
+        </div>
+    </div>
+    <div class="data-section">
+        <h1 class="data-title">Datos Censales</h1>
+        <p class="data-description">Análisis detallado de los datos del censo poblacional. <br> Explora las cifras más recientes del censo poblacional colombiano y su impacto en el nivel educativo. Descubre cómo la educación está transformando el país, impulsando el desarrollo y abriendo puertas a nuevas oportunidades para todos los ciudadanos. Conoce los datos que revelan el progreso y los retos en el sector educativo.</p>
+    </div>
+
+    <div class="main-container">
+        <div class="blog-header">
+            <h1 class="blog-title" id="datos_encuesta">Datos de la Encuesta 2020</h1>
+        </div>
+        
+        <!-- Primera entrada del blog -->
+        <div class="blog-post">
+            <h2 class="post-title">Destino Académico</h2>
+            <p class="post-subtitle">Encuesta a estudiantes de colegio privado 2020</p>
+            <span class="post-date">15 Mayo 2020</span>
+            
+            <div class="divider"></div>
+            
+            <div class="stats-container">
+                <div class="stat-item">
+                    <div class="stat-value">500</div>
+                    <div class="stat-label">Total Encuestados</div>
+                </div>
+                
+                <div class="stat-item">
+                    <div class="stat-label">Destino Académico</div>
+                    <div class="stat-list">
+                        <img src="data:image/png;base64,{{ imagen }}">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Segunda entrada del blog -->
+        <div class="blog-post">
+                <h2 class="post-title">Distribución por Género</h2>
+                <p class="post-subtitle">Encuesta a estudiantes de colegio privado 2020</p>
+                <span class="post-date">22 Mayo 2020</span>
+            
+            <div class="divider"></div>
+                
+            <div class="stats-container">
+                <div class="stat-item">
+                    <div class="stat-value">500</div>
+                    <div class="stat-label">Total Encuestados</div>
+                </div>
+                
+                <div class="stat-item">
+                    <div class="stat-label">Distribución por Género (Gráfico Interactivo)</div>
+                    <div class="stat-list">
+                        <canvas id="sexoChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Tercera entrada del blog -->
+        <div class="blog-post">
+            <h2 class="post-title">Vision Futura</h2>
+            <p class="post-subtitle">Futuro Prometedor Para Todos</p>
+            <span class="post-date">29 Mayo 2025</span>
+        </div>
+    </div>
+
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/arQjFjcxwxI?si=qb02itUl2xo5Fs8F" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+<!-- Sección de contacto -->
+    <div class="contact-section">
+        <h1 class="section-title" id="contacto">Contacto</h1>
+        
+        <form class="contact-form">
+            <div class="form-group">
+                <!--label for="name">Nombre</label-->
+                <input type="text" id="name" name="name" required placeholder="Nombre">
+            </div>
+            
+            <div class="form-group">
+                <!--label for="tema">Tema</label-->
+                <input type="url" id="tema" name="tema" placeholder="Tema">
+            </div>
+            
+            <div class="form-group">
+                <!--label for="email">Correo</label-->
+                <input type="email" id="email" name="email" required placeholder="Correo">
+            </div>
+            
+            <div class="form-group">
+                <!--label for="message">Mensaje</label-->
+                <textarea id="message" name="message" required placeholder="Mensaje"></textarea>
+            </div>
+            
+            <button type="submit" class="submit-btn">Enviar</button>
+        </form>
+    </div>
+
+<!-- Sección de ubicación con mapa -->
+    <div class="location-section">
+        <h1 class="section-title" id="ubicacion">Ubicación</h1>
+        <div class="map-container">
+            <!-- Mapa de ejemplo (Bogotá, Colombia) -->
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.785585461629!2d-74.08346692468227!3d4.648629641686312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9a3b09126f0d%3A0x5dfee6c5eef6a5e0!2sBiblioteca%20Nacional%20de%20Colombia!5e0!3m2!1ses!2sco!4v1718762345573!5m2!1ses!2sco" 
+            allowfullscreen="" 
+            loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+    
+    <footer>
+        <div class="footer-container">
+            <p class="copyright">© 2020 Censos Colombia. Todos los derechos reservados</p>
+        </div>
+    </footer>
+
+    <script>
+        const labels = {{ labels | tojson }};
+        const data = {{ valores | tojson }};
+
+        new Chart(document.getElementById('sexoChart'), {
+            type: 'doughnut',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Estudiantes por Sexo',
+                    data: data,
+                    backgroundColor: ['#36A2EB', '#FF6384'],
+                }]
+            }
+        });
+    </script>
+</body>
+</html>

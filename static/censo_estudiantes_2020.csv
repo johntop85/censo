@@ -1,0 +1,501 @@
+ID,Nombre,Sexo,Edad,Destino académico,Año de graduación
+1,Andrés Rodríguez,Masculino,19,Universidad,2020
+2,Diego Díaz,Masculino,20,Universidad,2020
+3,Fernando Rodríguez,Masculino,20,Universidad,2020
+4,Juliana Gómez,Femenino,20,SENA,2020
+5,Laura Hernández,Femenino,19,No continuó estudios,2020
+6,María Martínez,Femenino,17,Universidad,2020
+7,Sara Pérez,Femenino,18,Universidad,2020
+8,Juliana Martínez,Femenino,20,Universidad,2020
+9,Juliana Díaz,Femenino,20,No continuó estudios,2020
+10,Paula Hernández,Femenino,19,Universidad,2020
+11,Juliana Rodríguez,Femenino,17,SENA,2020
+12,Isabella Rodríguez,Femenino,17,No continuó estudios,2020
+13,Ana García,Femenino,18,Universidad,2020
+14,Paula Gómez,Femenino,20,Universidad,2020
+15,María Martínez,Femenino,18,SENA,2020
+16,Miguel Romero,Masculino,17,Universidad,2020
+17,Ana Díaz,Femenino,18,No continuó estudios,2020
+18,Julián García,Masculino,20,SENA,2020
+19,Andrés Díaz,Masculino,17,Universidad,2020
+20,Camila Hernández,Femenino,17,No continuó estudios,2020
+21,Santiago Díaz,Masculino,20,Universidad,2020
+22,Isabella Gómez,Femenino,19,No continuó estudios,2020
+23,Julián Romero,Masculino,18,Universidad,2020
+24,Sara Díaz,Femenino,20,SENA,2020
+25,Luis Martínez,Masculino,19,Universidad,2020
+26,Miguel Hernández,Masculino,19,SENA,2020
+27,Juliana Moreno,Femenino,18,SENA,2020
+28,Sara López,Femenino,20,Universidad,2020
+29,Fernando García,Masculino,17,No continuó estudios,2020
+30,Paula Díaz,Femenino,20,Universidad,2020
+31,Sara López,Femenino,20,SENA,2020
+32,Santiago Moreno,Masculino,18,SENA,2020
+33,Sara García,Femenino,18,Universidad,2020
+34,Isabella Pérez,Femenino,19,SENA,2020
+35,Luis Pérez,Masculino,19,SENA,2020
+36,Sara Romero,Femenino,17,SENA,2020
+37,Ana Rodríguez,Femenino,20,No continuó estudios,2020
+38,Sara Díaz,Femenino,19,Universidad,2020
+39,Luis Moreno,Masculino,18,Universidad,2020
+40,Laura Rodríguez,Femenino,20,Universidad,2020
+41,Luis Martínez,Masculino,17,Universidad,2020
+42,Luis Gómez,Masculino,20,Universidad,2020
+43,Miguel López,Masculino,20,No continuó estudios,2020
+44,Diego Pérez,Masculino,20,SENA,2020
+45,Camila Hernández,Femenino,20,Universidad,2020
+46,Luis Moreno,Masculino,19,Universidad,2020
+47,Sara García,Femenino,17,Universidad,2020
+48,Juan Díaz,Masculino,19,Universidad,2020
+49,Sara Gómez,Femenino,17,Universidad,2020
+50,Fernando Martínez,Masculino,19,SENA,2020
+51,Diego Moreno,Masculino,19,No continuó estudios,2020
+52,Juliana Pérez,Femenino,20,Universidad,2020
+53,Diego Romero,Masculino,20,Universidad,2020
+54,Julián Martínez,Masculino,19,Universidad,2020
+55,María Moreno,Femenino,19,SENA,2020
+56,Sara Hernández,Femenino,20,SENA,2020
+57,David García,Masculino,19,SENA,2020
+58,Santiago López,Masculino,17,Universidad,2020
+59,Carlos Rodríguez,Masculino,17,SENA,2020
+60,Daniela Hernández,Femenino,18,No continuó estudios,2020
+61,Valentina Rodríguez,Femenino,20,Universidad,2020
+62,Sara Pérez,Femenino,17,SENA,2020
+63,Luis Hernández,Masculino,20,Universidad,2020
+64,Camila Hernández,Femenino,17,SENA,2020
+65,Daniela Rodríguez,Femenino,19,SENA,2020
+66,Laura García,Femenino,17,SENA,2020
+67,María López,Femenino,20,No continuó estudios,2020
+68,Carlos Romero,Masculino,18,SENA,2020
+69,Julián Díaz,Masculino,20,SENA,2020
+70,María Gómez,Femenino,20,Universidad,2020
+71,Laura Romero,Femenino,17,Universidad,2020
+72,Miguel López,Masculino,20,SENA,2020
+73,Miguel Rodríguez,Masculino,17,Universidad,2020
+74,Carlos Rodríguez,Masculino,20,Universidad,2020
+75,Diego Martínez,Masculino,20,Universidad,2020
+76,Paula Pérez,Femenino,19,No continuó estudios,2020
+77,Juliana Gómez,Femenino,18,SENA,2020
+78,Carlos Pérez,Masculino,19,Universidad,2020
+79,Valentina Hernández,Femenino,20,Universidad,2020
+80,Julián Martínez,Masculino,19,No continuó estudios,2020
+81,Santiago Rodríguez,Masculino,20,Universidad,2020
+82,Carlos Moreno,Masculino,19,Universidad,2020
+83,Andrés Romero,Masculino,18,Universidad,2020
+84,Andrés Martínez,Masculino,19,Universidad,2020
+85,Paula López,Femenino,18,Universidad,2020
+86,Camila López,Femenino,17,Universidad,2020
+87,Juan Martínez,Masculino,18,Universidad,2020
+88,Sara Gómez,Femenino,19,Universidad,2020
+89,María Martínez,Femenino,20,Universidad,2020
+90,Juan Hernández,Masculino,19,SENA,2020
+91,Julián López,Masculino,18,Universidad,2020
+92,Camila Romero,Femenino,17,Universidad,2020
+93,Carlos Moreno,Masculino,18,SENA,2020
+94,Paula Rodríguez,Femenino,17,SENA,2020
+95,Isabella Hernández,Femenino,20,Universidad,2020
+96,Miguel García,Masculino,19,SENA,2020
+97,Juan Rodríguez,Masculino,18,SENA,2020
+98,Camila Martínez,Femenino,18,Universidad,2020
+99,Carlos Díaz,Masculino,18,SENA,2020
+100,Juan Romero,Masculino,17,Universidad,2020
+101,Laura Romero,Femenino,19,Universidad,2020
+102,Andrés Pérez,Masculino,20,Universidad,2020
+103,María Rodríguez,Femenino,20,SENA,2020
+104,Carlos Hernández,Masculino,20,No continuó estudios,2020
+105,Isabella López,Femenino,20,No continuó estudios,2020
+106,Andrés Moreno,Masculino,19,Universidad,2020
+107,Paula Martínez,Femenino,17,Universidad,2020
+108,Fernando Romero,Masculino,20,Universidad,2020
+109,Isabella Martínez,Femenino,20,SENA,2020
+110,Luis López,Masculino,18,Universidad,2020
+111,María Gómez,Femenino,19,Universidad,2020
+112,Isabella Díaz,Femenino,18,No continuó estudios,2020
+113,Santiago Martínez,Masculino,19,Universidad,2020
+114,Sara López,Femenino,17,Universidad,2020
+115,Daniela Romero,Femenino,18,Universidad,2020
+116,Santiago Díaz,Masculino,18,Universidad,2020
+117,Fernando Rodríguez,Masculino,17,Universidad,2020
+118,Diego Díaz,Masculino,19,No continuó estudios,2020
+119,Santiago López,Masculino,20,SENA,2020
+120,Ana Romero,Femenino,20,Universidad,2020
+121,Julián Hernández,Masculino,19,Universidad,2020
+122,Miguel Pérez,Masculino,20,No continuó estudios,2020
+123,María García,Femenino,18,SENA,2020
+124,Sara Pérez,Femenino,19,Universidad,2020
+125,Laura López,Femenino,18,Universidad,2020
+126,Luis López,Masculino,20,No continuó estudios,2020
+127,Isabella Hernández,Femenino,18,Universidad,2020
+128,Miguel Rodríguez,Masculino,19,SENA,2020
+129,Miguel Gómez,Masculino,17,Universidad,2020
+130,Camila Martínez,Femenino,18,Universidad,2020
+131,Isabella López,Femenino,20,No continuó estudios,2020
+132,Luis Romero,Masculino,17,Universidad,2020
+133,Juan Martínez,Masculino,18,SENA,2020
+134,Daniela Gómez,Femenino,17,SENA,2020
+135,Andrés Rodríguez,Masculino,17,SENA,2020
+136,Santiago Rodríguez,Masculino,19,Universidad,2020
+137,Juliana Romero,Femenino,20,Universidad,2020
+138,Carlos Pérez,Masculino,17,SENA,2020
+139,Paula López,Femenino,20,SENA,2020
+140,Sara Martínez,Femenino,17,Universidad,2020
+141,Carlos Díaz,Masculino,17,Universidad,2020
+142,Carlos García,Masculino,18,Universidad,2020
+143,Juan Moreno,Masculino,19,Universidad,2020
+144,Camila Hernández,Femenino,19,SENA,2020
+145,Miguel Gómez,Masculino,17,No continuó estudios,2020
+146,David Gómez,Masculino,18,SENA,2020
+147,Juliana Hernández,Femenino,19,Universidad,2020
+148,Santiago Hernández,Masculino,18,No continuó estudios,2020
+149,Fernando Gómez,Masculino,17,SENA,2020
+150,Santiago Romero,Masculino,19,Universidad,2020
+151,Carlos López,Masculino,17,SENA,2020
+152,Miguel Rodríguez,Masculino,18,Universidad,2020
+153,Carlos Rodríguez,Masculino,20,SENA,2020
+154,Julián Martínez,Masculino,17,Universidad,2020
+155,Andrés Martínez,Masculino,19,Universidad,2020
+156,Valentina Hernández,Femenino,18,Universidad,2020
+157,Juliana López,Femenino,18,Universidad,2020
+158,David García,Masculino,18,Universidad,2020
+159,Juliana García,Femenino,18,Universidad,2020
+160,Paula Romero,Femenino,17,No continuó estudios,2020
+161,Miguel Moreno,Masculino,18,SENA,2020
+162,Daniela Romero,Femenino,17,Universidad,2020
+163,Daniela Moreno,Femenino,18,No continuó estudios,2020
+164,David Díaz,Masculino,19,No continuó estudios,2020
+165,Andrés Moreno,Masculino,19,Universidad,2020
+166,Diego Martínez,Masculino,20,Universidad,2020
+167,María Gómez,Femenino,17,SENA,2020
+168,Valentina Díaz,Femenino,18,Universidad,2020
+169,Diego Moreno,Masculino,20,Universidad,2020
+170,Miguel Martínez,Masculino,20,SENA,2020
+171,Ana Pérez,Femenino,17,SENA,2020
+172,Laura López,Femenino,20,Universidad,2020
+173,Sara Romero,Femenino,18,Universidad,2020
+174,Julián García,Masculino,19,Universidad,2020
+175,Ana Gómez,Femenino,20,SENA,2020
+176,Ana Martínez,Femenino,17,Universidad,2020
+177,Luis Martínez,Masculino,19,No continuó estudios,2020
+178,Juliana Rodríguez,Femenino,20,Universidad,2020
+179,Isabella López,Femenino,20,No continuó estudios,2020
+180,Diego Moreno,Masculino,17,SENA,2020
+181,Valentina Díaz,Femenino,20,Universidad,2020
+182,María Díaz,Femenino,20,SENA,2020
+183,Andrés Moreno,Masculino,18,Universidad,2020
+184,Juan Hernández,Masculino,17,Universidad,2020
+185,Camila Pérez,Femenino,19,Universidad,2020
+186,Laura Hernández,Femenino,20,Universidad,2020
+187,Luis Pérez,Masculino,17,Universidad,2020
+188,Ana Díaz,Femenino,19,Universidad,2020
+189,Sara López,Femenino,18,Universidad,2020
+190,Juan Rodríguez,Masculino,20,SENA,2020
+191,Juliana Martínez,Femenino,17,Universidad,2020
+192,Santiago Hernández,Masculino,19,SENA,2020
+193,Miguel Díaz,Masculino,17,No continuó estudios,2020
+194,Andrés Moreno,Masculino,17,Universidad,2020
+195,Sara Rodríguez,Femenino,19,Universidad,2020
+196,María López,Femenino,19,Universidad,2020
+197,Juan Romero,Masculino,19,Universidad,2020
+198,Sara López,Femenino,19,No continuó estudios,2020
+199,Paula Rodríguez,Femenino,19,Universidad,2020
+200,Andrés Rodríguez,Masculino,19,Universidad,2020
+201,Fernando García,Masculino,19,Universidad,2020
+202,Santiago García,Masculino,19,SENA,2020
+203,María López,Femenino,20,Universidad,2020
+204,Andrés Martínez,Masculino,19,SENA,2020
+205,Santiago Martínez,Masculino,17,SENA,2020
+206,Luis García,Masculino,19,No continuó estudios,2020
+207,Ana Hernández,Femenino,18,Universidad,2020
+208,Sara Martínez,Femenino,18,Universidad,2020
+209,Luis Hernández,Masculino,18,Universidad,2020
+210,Ana Martínez,Femenino,18,SENA,2020
+211,Miguel Hernández,Masculino,20,Universidad,2020
+212,Camila Díaz,Femenino,20,No continuó estudios,2020
+213,Miguel Romero,Masculino,18,Universidad,2020
+214,Carlos Romero,Masculino,18,SENA,2020
+215,Daniela García,Femenino,20,SENA,2020
+216,Julián Rodríguez,Masculino,17,SENA,2020
+217,Diego López,Masculino,19,Universidad,2020
+218,Daniela López,Femenino,18,Universidad,2020
+219,Juliana Pérez,Femenino,18,Universidad,2020
+220,Camila Pérez,Femenino,17,Universidad,2020
+221,Miguel Moreno,Masculino,17,Universidad,2020
+222,Julián García,Masculino,18,Universidad,2020
+223,Julián García,Masculino,19,Universidad,2020
+224,Miguel Díaz,Masculino,17,Universidad,2020
+225,Fernando Hernández,Masculino,20,Universidad,2020
+226,Juan López,Masculino,20,No continuó estudios,2020
+227,Miguel García,Masculino,17,Universidad,2020
+228,Santiago López,Masculino,19,Universidad,2020
+229,María Díaz,Femenino,18,Universidad,2020
+230,Luis Moreno,Masculino,17,Universidad,2020
+231,Ana Rodríguez,Femenino,20,SENA,2020
+232,Andrés Rodríguez,Masculino,19,Universidad,2020
+233,Juan López,Masculino,18,Universidad,2020
+234,Juliana López,Femenino,18,SENA,2020
+235,Carlos Pérez,Masculino,20,No continuó estudios,2020
+236,Paula Rodríguez,Femenino,18,Universidad,2020
+237,Juan Rodríguez,Masculino,18,Universidad,2020
+238,Isabella Pérez,Femenino,18,SENA,2020
+239,Ana López,Femenino,17,SENA,2020
+240,Carlos García,Masculino,20,No continuó estudios,2020
+241,Paula Díaz,Femenino,20,Universidad,2020
+242,David Rodríguez,Masculino,17,Universidad,2020
+243,Laura Rodríguez,Femenino,20,Universidad,2020
+244,Valentina Pérez,Femenino,20,Universidad,2020
+245,Diego Romero,Masculino,19,No continuó estudios,2020
+246,Isabella Romero,Femenino,19,No continuó estudios,2020
+247,Carlos Rodríguez,Masculino,18,Universidad,2020
+248,Ana Hernández,Femenino,19,Universidad,2020
+249,Paula Hernández,Femenino,20,Universidad,2020
+250,Isabella Romero,Femenino,17,SENA,2020
+251,María López,Femenino,19,No continuó estudios,2020
+252,Isabella Pérez,Femenino,19,Universidad,2020
+253,María García,Femenino,20,Universidad,2020
+254,Daniela Martínez,Femenino,20,No continuó estudios,2020
+255,Fernando López,Masculino,18,Universidad,2020
+256,Andrés Hernández,Masculino,19,SENA,2020
+257,Sara Hernández,Femenino,20,Universidad,2020
+258,Fernando Martínez,Masculino,18,No continuó estudios,2020
+259,Juliana Hernández,Femenino,17,Universidad,2020
+260,Andrés Romero,Masculino,17,Universidad,2020
+261,Camila López,Femenino,19,Universidad,2020
+262,Andrés Rodríguez,Masculino,20,Universidad,2020
+263,Miguel Moreno,Masculino,18,Universidad,2020
+264,Carlos Rodríguez,Masculino,19,Universidad,2020
+265,Juliana Martínez,Femenino,20,SENA,2020
+266,Isabella García,Femenino,17,SENA,2020
+267,Sara Rodríguez,Femenino,20,SENA,2020
+268,Daniela Pérez,Femenino,17,SENA,2020
+269,Laura Díaz,Femenino,20,SENA,2020
+270,Paula Pérez,Femenino,17,No continuó estudios,2020
+271,Juan Díaz,Masculino,19,Universidad,2020
+272,María López,Femenino,20,No continuó estudios,2020
+273,Julián Gómez,Masculino,18,No continuó estudios,2020
+274,Juliana Díaz,Femenino,20,Universidad,2020
+275,Camila Díaz,Femenino,19,SENA,2020
+276,Carlos García,Masculino,17,Universidad,2020
+277,Santiago López,Masculino,19,SENA,2020
+278,Diego Romero,Masculino,17,SENA,2020
+279,Laura Hernández,Femenino,17,SENA,2020
+280,Diego Rodríguez,Masculino,19,SENA,2020
+281,Julián Rodríguez,Masculino,18,SENA,2020
+282,Laura López,Femenino,20,Universidad,2020
+283,Valentina López,Femenino,18,Universidad,2020
+284,Juliana Martínez,Femenino,20,No continuó estudios,2020
+285,Isabella Hernández,Femenino,17,SENA,2020
+286,Paula Rodríguez,Femenino,18,Universidad,2020
+287,Isabella Hernández,Femenino,20,SENA,2020
+288,Daniela Moreno,Femenino,17,Universidad,2020
+289,Miguel Hernández,Masculino,17,SENA,2020
+290,Laura López,Femenino,20,Universidad,2020
+291,Miguel Gómez,Masculino,20,SENA,2020
+292,Daniela Martínez,Femenino,19,Universidad,2020
+293,Juliana Moreno,Femenino,20,No continuó estudios,2020
+294,Andrés Rodríguez,Masculino,20,Universidad,2020
+295,Juliana García,Femenino,18,SENA,2020
+296,Andrés Martínez,Masculino,20,Universidad,2020
+297,Andrés López,Masculino,17,Universidad,2020
+298,Julián Rodríguez,Masculino,17,Universidad,2020
+299,Carlos García,Masculino,20,Universidad,2020
+300,Juliana Pérez,Femenino,18,No continuó estudios,2020
+301,David Hernández,Masculino,19,Universidad,2020
+302,Miguel Rodríguez,Masculino,18,Universidad,2020
+303,Sara Hernández,Femenino,18,Universidad,2020
+304,Julián Pérez,Masculino,18,No continuó estudios,2020
+305,Santiago Gómez,Masculino,19,SENA,2020
+306,Carlos Rodríguez,Masculino,17,Universidad,2020
+307,Camila López,Femenino,20,SENA,2020
+308,David Díaz,Masculino,19,SENA,2020
+309,Carlos Gómez,Masculino,19,Universidad,2020
+310,Diego López,Masculino,19,Universidad,2020
+311,Isabella Martínez,Femenino,18,SENA,2020
+312,David Moreno,Masculino,20,No continuó estudios,2020
+313,Camila Romero,Femenino,20,SENA,2020
+314,María Díaz,Femenino,19,No continuó estudios,2020
+315,Paula Moreno,Femenino,19,SENA,2020
+316,Andrés Gómez,Masculino,20,SENA,2020
+317,Diego Romero,Masculino,19,SENA,2020
+318,Luis Rodríguez,Masculino,20,SENA,2020
+319,Carlos Rodríguez,Masculino,17,Universidad,2020
+320,Fernando Martínez,Masculino,18,No continuó estudios,2020
+321,Fernando Moreno,Masculino,19,Universidad,2020
+322,Fernando Pérez,Masculino,19,No continuó estudios,2020
+323,Juliana Rodríguez,Femenino,19,SENA,2020
+324,Paula Moreno,Femenino,18,Universidad,2020
+325,Paula Moreno,Femenino,20,Universidad,2020
+326,Fernando Rodríguez,Masculino,20,SENA,2020
+327,Daniela Romero,Femenino,20,Universidad,2020
+328,Valentina Martínez,Femenino,20,No continuó estudios,2020
+329,Miguel Hernández,Masculino,20,Universidad,2020
+330,María Hernández,Femenino,18,SENA,2020
+331,Sara Pérez,Femenino,18,Universidad,2020
+332,Daniela Díaz,Femenino,20,Universidad,2020
+333,Fernando Pérez,Masculino,20,No continuó estudios,2020
+334,Valentina López,Femenino,19,Universidad,2020
+335,Isabella Gómez,Femenino,19,SENA,2020
+336,Luis Gómez,Masculino,19,No continuó estudios,2020
+337,María Romero,Femenino,17,Universidad,2020
+338,Daniela Díaz,Femenino,18,Universidad,2020
+339,Sara López,Femenino,19,SENA,2020
+340,Carlos Moreno,Masculino,18,Universidad,2020
+341,Sara Gómez,Femenino,19,Universidad,2020
+342,Paula Hernández,Femenino,19,Universidad,2020
+343,David Rodríguez,Masculino,20,Universidad,2020
+344,Carlos García,Masculino,18,Universidad,2020
+345,Juliana Díaz,Femenino,19,SENA,2020
+346,Julián Rodríguez,Masculino,18,Universidad,2020
+347,Diego Romero,Masculino,20,Universidad,2020
+348,Camila García,Femenino,17,SENA,2020
+349,Sara Romero,Femenino,20,SENA,2020
+350,Juan Gómez,Masculino,17,Universidad,2020
+351,Isabella Rodríguez,Femenino,18,SENA,2020
+352,Fernando López,Masculino,17,Universidad,2020
+353,Sara Romero,Femenino,18,Universidad,2020
+354,Camila Moreno,Femenino,17,Universidad,2020
+355,Luis García,Masculino,19,No continuó estudios,2020
+356,Miguel Moreno,Masculino,19,Universidad,2020
+357,Santiago Moreno,Masculino,17,SENA,2020
+358,Carlos López,Masculino,18,Universidad,2020
+359,Camila Díaz,Femenino,19,Universidad,2020
+360,Laura García,Femenino,18,No continuó estudios,2020
+361,Luis García,Masculino,18,No continuó estudios,2020
+362,Isabella Gómez,Femenino,17,Universidad,2020
+363,Miguel Martínez,Masculino,19,Universidad,2020
+364,Camila López,Femenino,17,Universidad,2020
+365,María Pérez,Femenino,20,Universidad,2020
+366,Isabella López,Femenino,20,No continuó estudios,2020
+367,Diego Díaz,Masculino,20,Universidad,2020
+368,Santiago Romero,Masculino,20,SENA,2020
+369,Diego Rodríguez,Masculino,20,Universidad,2020
+370,Julián García,Masculino,20,Universidad,2020
+371,Juliana Moreno,Femenino,19,Universidad,2020
+372,Camila Hernández,Femenino,17,Universidad,2020
+373,Juan Pérez,Masculino,19,Universidad,2020
+374,Andrés Hernández,Masculino,20,Universidad,2020
+375,Miguel García,Masculino,17,Universidad,2020
+376,Daniela Hernández,Femenino,17,SENA,2020
+377,Santiago Gómez,Masculino,19,Universidad,2020
+378,Miguel Hernández,Masculino,19,SENA,2020
+379,Fernando Rodríguez,Masculino,19,SENA,2020
+380,Julián Pérez,Masculino,17,Universidad,2020
+381,Sara Pérez,Femenino,19,Universidad,2020
+382,Daniela García,Femenino,17,SENA,2020
+383,Camila Rodríguez,Femenino,19,Universidad,2020
+384,David Moreno,Masculino,17,SENA,2020
+385,Fernando Moreno,Masculino,20,Universidad,2020
+386,Santiago Díaz,Masculino,18,Universidad,2020
+387,Juan Rodríguez,Masculino,19,Universidad,2020
+388,Camila Pérez,Femenino,20,SENA,2020
+389,Valentina Hernández,Femenino,20,SENA,2020
+390,Paula Romero,Femenino,20,Universidad,2020
+391,Sara Martínez,Femenino,20,Universidad,2020
+392,Carlos Hernández,Masculino,18,SENA,2020
+393,Miguel García,Masculino,18,Universidad,2020
+394,Juan Hernández,Masculino,18,Universidad,2020
+395,Isabella Moreno,Femenino,19,Universidad,2020
+396,Santiago Gómez,Masculino,19,Universidad,2020
+397,Santiago Martínez,Masculino,20,Universidad,2020
+398,Juliana Rodríguez,Femenino,17,Universidad,2020
+399,Carlos Romero,Masculino,19,SENA,2020
+400,Daniela Martínez,Femenino,18,Universidad,2020
+401,María Rodríguez,Femenino,17,Universidad,2020
+402,Miguel Martínez,Masculino,17,No continuó estudios,2020
+403,Sara Díaz,Femenino,17,No continuó estudios,2020
+404,Sara Moreno,Femenino,19,Universidad,2020
+405,Valentina López,Femenino,20,No continuó estudios,2020
+406,Daniela Díaz,Femenino,19,SENA,2020
+407,Juliana Rodríguez,Femenino,18,Universidad,2020
+408,Juliana Martínez,Femenino,18,No continuó estudios,2020
+409,Ana Moreno,Femenino,20,Universidad,2020
+410,Diego Hernández,Masculino,19,Universidad,2020
+411,Juliana Romero,Femenino,18,SENA,2020
+412,Juan Pérez,Masculino,19,Universidad,2020
+413,Fernando Gómez,Masculino,17,Universidad,2020
+414,Carlos Díaz,Masculino,18,No continuó estudios,2020
+415,Santiago Moreno,Masculino,20,SENA,2020
+416,Daniela Rodríguez,Femenino,19,SENA,2020
+417,Valentina Romero,Femenino,17,Universidad,2020
+418,David Díaz,Masculino,19,SENA,2020
+419,David Rodríguez,Masculino,18,No continuó estudios,2020
+420,Camila Rodríguez,Femenino,17,Universidad,2020
+421,Luis Hernández,Masculino,20,No continuó estudios,2020
+422,Diego Díaz,Masculino,17,Universidad,2020
+423,Ana Moreno,Femenino,17,Universidad,2020
+424,Santiago Rodríguez,Masculino,18,No continuó estudios,2020
+425,Paula Romero,Femenino,17,No continuó estudios,2020
+426,Juan Gómez,Masculino,19,SENA,2020
+427,Laura Martínez,Femenino,17,Universidad,2020
+428,Luis García,Masculino,17,Universidad,2020
+429,Daniela García,Femenino,17,SENA,2020
+430,Andrés López,Masculino,18,Universidad,2020
+431,Andrés Pérez,Masculino,18,SENA,2020
+432,Santiago Romero,Masculino,20,Universidad,2020
+433,Diego López,Masculino,19,Universidad,2020
+434,Ana Díaz,Femenino,19,No continuó estudios,2020
+435,Daniela Gómez,Femenino,20,Universidad,2020
+436,Luis Pérez,Masculino,18,No continuó estudios,2020
+437,Laura Rodríguez,Femenino,19,Universidad,2020
+438,Laura Hernández,Femenino,19,Universidad,2020
+439,Ana García,Femenino,20,No continuó estudios,2020
+440,Diego Hernández,Masculino,20,No continuó estudios,2020
+441,Juan Martínez,Masculino,19,No continuó estudios,2020
+442,Laura Gómez,Femenino,18,SENA,2020
+443,Luis Díaz,Masculino,18,Universidad,2020
+444,Santiago García,Masculino,19,Universidad,2020
+445,Carlos Gómez,Masculino,17,Universidad,2020
+446,Paula Romero,Femenino,20,Universidad,2020
+447,Daniela Gómez,Femenino,17,SENA,2020
+448,Valentina Rodríguez,Femenino,19,Universidad,2020
+449,Sara García,Femenino,17,SENA,2020
+450,María Moreno,Femenino,18,Universidad,2020
+451,Daniela Martínez,Femenino,17,Universidad,2020
+452,Santiago Martínez,Masculino,19,No continuó estudios,2020
+453,Camila Gómez,Femenino,17,Universidad,2020
+454,Ana Díaz,Femenino,18,Universidad,2020
+455,Luis López,Masculino,19,Universidad,2020
+456,Isabella Pérez,Femenino,17,SENA,2020
+457,Carlos Romero,Masculino,19,No continuó estudios,2020
+458,Laura Hernández,Femenino,17,Universidad,2020
+459,Fernando Martínez,Masculino,18,Universidad,2020
+460,Juan García,Masculino,19,SENA,2020
+461,Santiago Rodríguez,Masculino,19,No continuó estudios,2020
+462,Daniela Hernández,Femenino,19,SENA,2020
+463,Valentina Martínez,Femenino,17,Universidad,2020
+464,Miguel García,Masculino,20,Universidad,2020
+465,Julián Rodríguez,Masculino,17,Universidad,2020
+466,Fernando García,Masculino,17,Universidad,2020
+467,Laura Martínez,Femenino,20,Universidad,2020
+468,María Moreno,Femenino,19,Universidad,2020
+469,Sara Díaz,Femenino,17,Universidad,2020
+470,Juan Romero,Masculino,19,SENA,2020
+471,Sara Romero,Femenino,19,Universidad,2020
+472,Ana Pérez,Femenino,19,No continuó estudios,2020
+473,Laura Romero,Femenino,19,Universidad,2020
+474,Diego Pérez,Masculino,20,Universidad,2020
+475,Daniela García,Femenino,17,No continuó estudios,2020
+476,María Rodríguez,Femenino,19,Universidad,2020
+477,Juliana Hernández,Femenino,20,SENA,2020
+478,Diego Pérez,Masculino,17,SENA,2020
+479,Andrés Pérez,Masculino,19,Universidad,2020
+480,Ana Martínez,Femenino,18,Universidad,2020
+481,Julián Moreno,Masculino,17,Universidad,2020
+482,María López,Femenino,19,Universidad,2020
+483,Andrés Hernández,Masculino,18,Universidad,2020
+484,Ana Pérez,Femenino,20,Universidad,2020
+485,Daniela Rodríguez,Femenino,17,Universidad,2020
+486,Ana Moreno,Femenino,17,Universidad,2020
+487,Valentina Hernández,Femenino,20,Universidad,2020
+488,María García,Femenino,17,Universidad,2020
+489,David Romero,Masculino,20,Universidad,2020
+490,Valentina Rodríguez,Femenino,17,SENA,2020
+491,David Rodríguez,Masculino,20,Universidad,2020
+492,Luis López,Masculino,19,SENA,2020
+493,Camila Romero,Femenino,20,No continuó estudios,2020
+494,Ana Moreno,Femenino,19,SENA,2020
+495,Miguel Martínez,Masculino,18,No continuó estudios,2020
+496,Carlos Moreno,Masculino,19,Universidad,2020
+497,Luis Romero,Masculino,17,Universidad,2020
+498,Santiago Moreno,Masculino,20,Universidad,2020
+499,Isabella Moreno,Femenino,17,SENA,2020
+500,María Rodríguez,Femenino,17,Universidad,2020
