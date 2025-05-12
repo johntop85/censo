@@ -8,6 +8,7 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
+<!-- Sección del menú -->
     <nav>
         <div class="nav-container">
             <div class="logo">CensoEdu</div>
@@ -19,7 +20,7 @@
             </div>
         </div>
     </nav>
-    
+<!-- Sección del benner -->    
     <div class="banner-section" id="inicio">
         <div class="banner-content">
             <h1>Censo Educativo 2020</h1>
@@ -29,11 +30,12 @@
             <img src="static\img\pc1.jpeg" alt="Laptop con gráficos">
         </div>
     </div>
+<!-- Sección texto introducción -->
     <div class="data-section">
         <h1 class="data-title">Datos Censales</h1>
         <p class="data-description">Análisis detallado de los datos del censo poblacional. <br> Explora las cifras más recientes del censo poblacional colombiano y su impacto en el nivel educativo. Descubre cómo la educación está transformando el país, impulsando el desarrollo y abriendo puertas a nuevas oportunidades para todos los ciudadanos. Conoce los datos que revelan el progreso y los retos en el sector educativo.</p>
     </div>
-
+<!-- Sección de datos (Gráficos) -->
     <div class="main-container">
         <div class="blog-header">
             <h1 class="blog-title" id="datos_encuesta">Datos de la Encuesta 2020</h1>
@@ -92,11 +94,10 @@
             <span class="post-date">29 Mayo 2025</span>
         </div>
     </div>
-
+<!-- Sección vídeo -->
     <div class="video-container">
         <iframe src="https://www.youtube.com/embed/arQjFjcxwxI?si=qb02itUl2xo5Fs8F" frameborder="0" allowfullscreen></iframe>
     </div>
-
 <!-- Sección de contacto -->
     <div class="contact-section">
         <h1 class="section-title" id="contacto">Contacto</h1>
@@ -125,7 +126,6 @@
             <button type="submit" class="submit-btn">Enviar</button>
         </form>
     </div>
-
 <!-- Sección de ubicación con mapa -->
     <div class="location-section">
         <h1 class="section-title" id="ubicacion">Ubicación</h1>
@@ -137,13 +137,13 @@
             referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
-    
+<!-- Sección pie de pagina -->    
     <footer>
         <div class="footer-container">
             <p class="copyright">© 2020 Censos Colombia. Todos los derechos reservados</p>
         </div>
     </footer>
-
+<!-- Sección con código JavaScript -->
     <script>
         const labels = {{ labels | tojson }};
         const data = {{ valores | tojson }};
@@ -155,7 +155,7 @@
                 datasets: [{
                     label: 'Estudiantes por Sexo',
                     data: data,
-                    backgroundColor: ['#36A2EB', '#FF6384'],
+                    backgroundColor: ['#FF6384', '#36A2EB'],
                 }]
             }
         });
