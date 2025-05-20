@@ -200,6 +200,37 @@ p {
     min-width: 200px;
 }
 
+.primer-item {
+    /* flex: 0 0 20%;  Esto es lo más explícito: no crece, no encoge, tamaño base 20% */
+    flex-grow: 0;   /* Ya que no queremos que este ítem crezca más allá de su 20% */
+    flex-shrink: 0; /* Para que no se encoja si hay espacio limitado (a menos que sea muy pequeño) */
+    flex-basis: 20%; /* Le decimos que su tamaño preferido es el 20% del contenedor padre */
+
+    min-width: 200px; /* Mantienes tu min-width original, asegúrate de que 20% no sea menor que esto */
+    /* Si 20% es menor que 200px, el ítem se ajustará a 200px y el ratio 20/80 se perderá.
+       Considera usar media queries para adaptar esto en pantallas pequeñas. */
+
+    background-color: #f0f0f0; /* Solo para visualización, remueve en producción */
+    padding: 20px; /* Mantén tu padding */
+    box-sizing: border-box; /* Asegura que padding y border se incluyan en el ancho */
+}
+
+.segundo-item {
+    flex-grow: 1;   /* Permite que este ítem crezca para ocupar todo el espacio restante */
+    flex-shrink: 1; /* Permite que se encoja si es necesario */
+    flex-basis: 70%; /* Le damos una base inicial de 80%, pero el 'flex-grow: 1' hará el trabajo */
+
+    /* Alternativa para flex: 1; */
+    /* flex: 1; Esto haría que crezca para ocupar el resto del espacio después del 'primer-item' */
+    /* Podrías usar flex: 1; directamente si el 'primer-item' tiene un flex-basis fijo. */
+    /* El 'min-width' de este ítem no debería ser un problema si el 80% es lo suficientemente grande. */
+
+    background-color: #e0e0e0; /* Solo para visualización, remueve en producción */
+    padding: 20px; /* Mantén tu padding */
+    box-sizing: border-box; /* Asegura que padding y border se incluyan en el ancho */
+    text-align: center; /* Centra el texto */
+}
+
 .stat-value {
     font-size: 28px;
     font-weight: bold;
@@ -309,9 +340,11 @@ p {
 
 /* Estilos para el video (como se mencionó anteriormente) */
 .video-container {
-    width: 100%;
+    width: 70%;
     aspect-ratio: 16 / 9;
     margin-bottom: 40px;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .video-container iframe {
